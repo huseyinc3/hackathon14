@@ -4,7 +4,6 @@ EVALTS, kullanıcıların IELTS Writing performanslarını değerlendirmek ve za
 ## Özellikler
 
 - IELTS Task 1 ve Task 2 değerlendirmesi
-- TOEFL Writing değerlendirmesi
 - Band skoru ve grafik analizi
 - Yazım hatalarını bulma ve düzeltme
 - Essay geliştirme önerileri
