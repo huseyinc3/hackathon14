@@ -1,4 +1,4 @@
-# WriteEval
+# EVALTS
 
 EVALTS, kullanıcıların IELTS Writing performanslarını değerlendirmek ve zaman içindeki gelişimlerini takip edebilmek için geliştirilen yapay zeka destekli bir uygulamadır. Kullanıcıdan bir ID alınarak her yazı için AI tarafından bant skoru değerlendirmesi yapılır ve bu skorlar veritabanına kaydedilir. Aynı ID ile tekrar giriş yapan kullanıcılar, önceki skorlarına göre oluşturulan gelişim grafiğini görüntüleyebilir. Uygulamada doğal dil işleme (NLP) tabanlı yapay zeka teknolojileri kullanılmıştır.
 ## Özellikler
